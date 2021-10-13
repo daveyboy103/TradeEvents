@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1bcfb897_002Df06c_002D4642_002Dae42_002Dbb76952be011/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldThrowExceptionForTradeIdMismatchWhenDiffing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.TradeProcessing.ShouldThrowExceptionForTradeIdMismatchWhenDiffing&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.TradeProcessing.ShouldReturnSameObjectIfVersionsAreSame&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.TradeProcessing.ShouldThrowExceptionIfVersionsSameButIdDifferent&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.TradeProcessing.ShouldProduceCorrectDiffObject&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.BookProcessing.ShouldThrowExceptionForIdMismatchWhenDiffing&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.BookProcessing.ShouldThrowExceptionIfVersionsSameButIdDifferent&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.BookProcessing.ShouldReturnSameObjectIfVersionsAreSame&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::D714C1E9-394A-4869-87E1-3058F7078DA4::net5.0::TradeStore.Tests.BookProcessing.ShouldProduceCorrectDiffObject&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

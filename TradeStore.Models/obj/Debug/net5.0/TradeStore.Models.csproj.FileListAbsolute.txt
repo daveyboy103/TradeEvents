@@ -1,0 +1,12 @@
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/bin/Debug/net5.0/TradeStore.Models.deps.json
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/bin/Debug/net5.0/TradeStore.Models.dll
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/bin/Debug/net5.0/ref/TradeStore.Models.dll
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/bin/Debug/net5.0/TradeStore.Models.pdb
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.csproj.AssemblyReference.cache
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.AssemblyInfoInputs.cache
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.AssemblyInfo.cs
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.csproj.CoreCompileInputs.cache
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.dll
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/ref/TradeStore.Models.dll
+/Users/davidharrington/Library/Mobile Documents/com~apple~CloudDocs/Projects/RiderProjects/TradeStoreApi/TradeStore.Models/obj/Debug/net5.0/TradeStore.Models.pdb
